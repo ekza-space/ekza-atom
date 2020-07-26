@@ -30,6 +30,6 @@ PC - ``% virtualenv venv && venv\Scripts\activate``
 ``
 
 ### Preview the SoulSphere
-current version at [heroku](http://soulsphere.herokuapp.com/)
+current version at [heroku](http://ekza-atom.herokuapp.com/)
 
 v 1.0.1
